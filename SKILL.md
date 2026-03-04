@@ -1,5 +1,5 @@
 ---
-name: marsbit-crypto-news
+name: marsbit-crypto-news-skill
 description: Crypto-native Web3 news and flash intelligence from MarsBit through hosted MCP. Use this for L1/L2 ecosystems, DeFi/CeFi, regulation, exchange flows, and market-moving events.
 metadata: {"openclaw":{"emoji":"📰","requires":{"bins":["curl"]},"install":[{"id":"curl","kind":"brew","formula":"curl","label":"curl (HTTP client)"}],"os":["darwin","linux","win32"]},"version":"0.3.2"}
 ---
